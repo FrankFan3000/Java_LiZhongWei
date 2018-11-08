@@ -1,0 +1,2 @@
+javac HelloJava.java
+java HelloJava
