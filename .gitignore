@@ -1,5 +1,4 @@
 out/
 bin/
+#*.iml
 *.iml
-#.idea/
-#*/.idea/workspace.xml
